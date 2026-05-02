@@ -28,7 +28,7 @@
 #' @author Vasily V. Grinev
 #' @examples
 #' qa <- assessQRawReads(fastqDir="Files_FASTQ",
-#'                       fastq="2-Galkina-A_S2_L001_R1_001.fastq.gz",
+#'                       fastq="test_seq.R1.fastq.gz",
 #'                       n=1e5,
 #'                       adapters=NULL,
 #'                       contaminants=NULL,
